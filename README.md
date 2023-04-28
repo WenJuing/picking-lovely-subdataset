@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # picking-lovely-subdataset
-Compressing a large and potentially redundant dataset into a compact and expected subdataset.
-=======
-# Project: picking-lovely-subdataset
 Compressing a large and potentially redundant dataset into a compact and expected subdataset.
 
 <h2>Introduction</h2>
@@ -43,4 +39,3 @@ Explanation: The bool matrix output by some of the programs for the bottom part 
 
 <h2>Acknowlegde</h2>
 The partial code `distributional_dataset_undersampling` in this project from the `distributional_dataset_undersampling` repository by bbonik (https://github.com/bbonik/distributional_dataset_undersampling).
->>>>>>> master
